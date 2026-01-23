@@ -1,0 +1,319 @@
+{
+  "main": {
+    "id": "c756d09d4dc59c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "882200133da382dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5199e11e469eb29d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS2/Shared Memory (CycloneDDS)/Useful Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Useful Commands"
+            }
+          },
+          {
+            "id": "7d32afd95357f662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Bootload/Bootloader issue related (commands and issues).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bootloader issue related (commands and issues)"
+            }
+          },
+          {
+            "id": "58dcb7e9d6884ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RTST/회사생활 문서 및 링크 모음/링크 모음.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "링크 모음"
+            }
+          },
+          {
+            "id": "7b86efe0f317ff0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RTST/프로젝트/대한항공/자료 관련.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "자료 관련"
+            }
+          },
+          {
+            "id": "7d2ddda880a723c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS2/Benchmark/ros2_benchmark/Hello, World! for ros2_benchmark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello, World! for ros2_benchmark"
+            }
+          },
+          {
+            "id": "a4971e33b074e02c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RTST/보고서작성/개인업적기술서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "개인업적기술서"
+            }
+          },
+          {
+            "id": "62307b384032eec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RTST/보고서작성/개인업적기술서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "개인업적기술서"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d19ee7584f37fed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7ce169e29cceff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e88fa5ce0f0644",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6e11fab1a660b7f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7a4a180178cf416e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5eb401b4bab405e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dd3813d49b3af21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7fbe2cd60dd1996",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Bootload/Understanding Boot Process (Linux).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Understanding Boot Process (Linux)"
+            }
+          },
+          {
+            "id": "67941a1cac72a0c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/Bootload/Understanding Boot Process (Linux).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Understanding Boot Process (Linux)"
+            }
+          },
+          {
+            "id": "7eba19ce39d56c6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b8a79d6abbaed7ab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9fd5861ec52aa7bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ROS2/Benchmark/ros2_benchmark/Hello, World! for ros2_benchmark.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hello, World! for ros2_benchmark"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7d2ddda880a723c9",
+  "lastOpenFiles": [
+    "ROS2/Benchmark/Available Tools.md",
+    "ROS2/Benchmark/ros2_benchmark/Hello, World! for ros2_benchmark.md",
+    "ROS2/Shared Memory (CycloneDDS)/Installation/(Installation) Shared memory with CycloneDDS with iox-introspection-client.md",
+    "RTST/Passwords.md",
+    "Linux/Issues/Software Rendering Issue/Software Rendering Issue (MESA not used).md",
+    "RTST/프로젝트/대한항공/자료 관련.md",
+    "Linux/Issues/Software Rendering Issue",
+    "Linux/Issues",
+    "Untitled 1.md",
+    "RTST/회사생활 문서 및 링크 모음/링크 모음.md",
+    "hansulee-home.ovpn",
+    "Robot/Simulation/COMMANDS-Turtlebot Simulation.md",
+    "Untitled.md",
+    "TODO/2026.01.md",
+    "RTST/보고서작성/개인업적기술서.md",
+    "RTST/보고서작성/팀 파트2 업무 계획.md",
+    "RTST/프로젝트/대한항공",
+    "RTST/프로젝트",
+    "RTST/보고서작성/BSD 팀 업무계획.md",
+    "RTST/회사생활 문서 및 링크 모음",
+    "RTST/보고서작성/주간보고서 작성.md",
+    "Pasted image 20260119142230.png",
+    "Pasted image 20260119142150.png",
+    "ROS2/Video Processing/H264 CompressedImage Handling.md",
+    "Obsidian/Plugins.md",
+    "Pasted image 20260119135446.png",
+    "RTST/보고서작성",
+    "RTST",
+    "Pasted image 20260117234434.png",
+    "Pasted image 20260117234420.png",
+    "ROS2/Shared Memory (CycloneDDS)/Useful Commands.md",
+    "Linux/Bootload/Bootloader issue related (commands and issues).md",
+    "ROS2/GPU Usage/Direct GPU Rendering (ROS2).md",
+    "ROS2/Video Processing",
+    "ROS2/GPU Usage/Isaac ROS.md",
+    "ROS2/GPU Usage/DeepStream.md",
+    "ROS2/GPU Usage/Use cases.md",
+    "ROS2/GPU Usage/TensorRT.md",
+    "ROS2/GPU Usage",
+    "Robot/Hardware (Robot-ROS2)/Rovers Robot.md",
+    "Robot/Hardware (Robot-ROS2)/Drones Robot.md",
+    "Pasted image 20260114203726.png",
+    "Pasted image 20260114203655.png",
+    "Pasted image 20260114203403.png",
+    "Untitled.canvas"
+  ]
+}
