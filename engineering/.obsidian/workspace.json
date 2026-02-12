@@ -27,20 +27,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Bootload/Bootloader issue related (commands and issues).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bootloader issue related (commands and issues)"
-            }
-          },
-          {
-            "id": "58dcb7e9d6884ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "RTST/회사생활 문서 및 링크 모음/링크 모음.md",
                 "mode": "source",
                 "source": false
@@ -55,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RTST/프로젝트/대한항공/자료 관련.md",
+                "file": "RTST/Secrets (Passwords)/Other websites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자료 관련"
+              "title": "Other websites"
             }
           },
           {
@@ -69,68 +55,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compass/Board Learning without electronics (Start here).md",
+                "file": "TODO/2026.01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Board Learning without electronics (Start here)"
-            }
-          },
-          {
-            "id": "ae2e7ac2b419a8b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROS2/Shared Memory (CycloneDDS)/Installation/(Installation) Shared memory with CycloneDDS with iox-introspection-client.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(Installation) Shared memory with CycloneDDS with iox-introspection-client"
-            }
-          },
-          {
-            "id": "93b2a6b1b0e3ea8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROS2/Shared Memory (CycloneDDS)/Installation/(Installation) Shared memory with CycloneDDS with iox-introspection-client.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(Installation) Shared memory with CycloneDDS with iox-introspection-client"
-            }
-          },
-          {
-            "id": "44c14db9799431fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "질문사항.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "질문사항"
+              "title": "2026.01"
             }
           },
           {
             "id": "a4971e33b074e02c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RTST/보고서작성/개인업적기술서.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "개인업적기술서"
+              "title": "New tab"
             }
           },
           {
@@ -139,16 +79,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RTST/보고서작성/개인업적기술서.md",
+                "file": "Linux/Arch Linux/Where to begin?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "개인업적기술서"
+              "title": "Where to begin?"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -283,13 +223,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "질문사항.md",
+                "file": "RTST/Secrets (Passwords)/Other websites.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 질문사항"
+              "title": "Outline of Other websites"
+            }
+          },
+          {
+            "id": "89649fa5108d2640",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -310,46 +260,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "44c14db9799431fa",
+  "active": "7b86efe0f317ff0b",
   "lastOpenFiles": [
-    "TODO/Untitled.md",
-    "Side Projects/ROS2 Node Perf/Roadmap.md",
+    "RTST/Secrets (Passwords)/Passwords.md",
+    "RTST/Secrets (Passwords)/Other websites.md",
+    "Untitled.base",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "2026-02-12.md",
+    "Obsidian/Plugins.md",
+    "ROS2/Dataset/Datasets (Many).md",
+    "TODO/ROS2 Monitoring Tool/Ideation.md",
+    "RTST/프로젝트/대한항공/자료 관련.md",
+    "TODO/ROS2 Monitoring Tool",
+    "Personal/Learning Plan (2026)/Engineering.md",
+    "Personal/Learning Plan (2026)",
+    "Personal",
+    "RTST/Secrets (Passwords)",
+    "Robot/Hardware (Robot-ROS2)/Rovers Robot.md",
+    "Robot/Hardware (Robot-ROS2)/Drones Robot.md",
+    "ROS2/ROS2 Bags/Drones ROS2 Bag.md",
+    "ROS2/GPU Usage/Use cases.md",
+    "ROS2/GPU Usage/TensorRT.md",
+    "ROS2/GPU Usage/Isaac ROS.md",
+    "ROS2/GPU Usage/Direct GPU Rendering (ROS2).md",
+    "ROS2/GPU Usage/DeepStream.md",
+    "RTST/회사생활 문서 및 링크 모음/링크 모음.md",
+    "TODO/2026.01.md",
+    "Linux/Arch Linux/Where to begin?.md",
+    "Untitled.canvas",
+    "2026-02-02.md",
+    "Linux/Bootload/boot process (GUIDE).md",
+    "Linux/Bootload/Understanding Boot Process (Linux).md",
+    "RTST/근로보고서작성/팀 파트2 업무 계획.md",
+    "ROS2/Dataset",
+    "RTST/근로보고서작성/개인업적기술서.md",
+    "RTST/근로보고서작성/BSD 팀 업무계획.md",
     "Side Projects/ROS2 Node Perf",
     "Screenshot_20260128_115607.png",
     "Screenshot_20260128_115303.png",
-    "RTST/워크샵/2026.02.12.md",
-    "RTST/워크샵",
-    "RTST/근로보고서작성/팀 파트2 업무 계획.md",
-    "RTST/근로보고서작성/주간보고서 작성.md",
-    "RTST/근로보고서작성/개인업적기술서.md",
-    "RTST/근로보고서작성/BSD 팀 업무계획.md",
-    "RTST/근로보고서작성",
-    "ROS2/Dataset/Datasets (Many).md",
-    "ROS2/Dataset",
-    "Hardware/Jetson Carrier Board.md",
     "Hardware",
-    "2026-W04.md",
-    "ROS2/Shared Memory (CycloneDDS)/Installation/(Installation) Shared memory with CycloneDDS with iox-introspection-client.md",
-    "질문사항.md",
-    "RTST/Passwords.md",
-    "RTST/보고서작성/주간보고서 작성.md",
-    "ROS2/Benchmark/ros2_benchmark/Hello, World! for ros2_benchmark.md",
-    "Compass/Shopping List.md",
-    "Compass/Board Learning without electronics (Start here).md",
-    "Compass/Board Project List.md",
-    "Compass/Customized Engineer Path.md",
-    "Compass",
-    "ROS2/Benchmark/Available Tools.md",
-    "Linux/Issues/Software Rendering Issue/Software Rendering Issue (MESA not used).md",
-    "RTST/프로젝트/대한항공/자료 관련.md",
-    "Linux/Issues/Software Rendering Issue",
-    "Linux/Issues",
-    "Untitled 1.md",
-    "RTST/회사생활 문서 및 링크 모음/링크 모음.md",
-    "hansulee-home.ovpn",
-    "Robot/Simulation/COMMANDS-Turtlebot Simulation.md",
-    "Untitled.md",
-    "RTST/프로젝트/대한항공",
+    "RTST/워크샵",
+    "TODO/Untitled.base",
     "Pasted image 20260119142230.png",
     "Pasted image 20260119142150.png",
     "Pasted image 20260119135446.png",
@@ -357,7 +309,6 @@
     "Pasted image 20260117234420.png",
     "Pasted image 20260114203726.png",
     "Pasted image 20260114203655.png",
-    "Pasted image 20260114203403.png",
-    "Untitled.canvas"
+    "Pasted image 20260114203403.png"
   ]
 }
